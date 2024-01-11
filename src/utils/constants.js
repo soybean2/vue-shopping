@@ -1,0 +1,29 @@
+// 顶级分类
+export const topCategory = [{
+    id: 1,
+    name: '居家生活'
+}, {
+    id: 2,
+    name: '宠物生活'
+}, {
+    id: 3,
+    name: '服饰鞋包'
+}, {
+    id: 4,
+    name: '美食酒水'
+}, {
+    id: 5,
+    name: '个护清洁'
+}, {
+    id: 6,
+    name: '母婴亲子'
+}, {
+    id: 7,
+    name: '数码家电'
+}, {
+    id: 8,
+    name: '众筹'
+}, {
+    id: 9,
+    name: '杂货'
+}]

@@ -1,0 +1,10 @@
+// 混入
+
+//鼠标经过上移阴影动画
+.hovershadow() {
+  transition: all .5s;
+    &:hover {
+        box-shadow: 0 3px 8px rgba(0, 0, 0, .2);
+        transform: translate3d(0, -3px, 0);
+    }
+}
